@@ -14,7 +14,7 @@ Thus this calculator.
 ![v](https://img.shields.io/badge/version-v.1.o-green)
 [![Hits](https://hits.sh/github.com/gamedevCloudy/video-speed-time-calulator.svg)](https://hits.sh/github.com/gamedevCloudy/video-speed-time-calculator)
 
-![Screenshot](SS.png)
+![Screenshot](ss.png)
 </div>
 
 ---
