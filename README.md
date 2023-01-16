@@ -11,7 +11,7 @@ Thus this calculator.
 ![Python](https://img.shields.io/badge/-python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 <br>
 
-![v](https://img.shields.io/badge/version-v.1.o-green)
+![v](https://img.shields.io/badge/version-v.1.3-green)
 [![Hits](https://hits.sh/github.com/gamedevCloudy/video-speed-time-calulator.svg)](https://hits.sh/github.com/gamedevCloudy/video-speed-time-calculator)
 
 ![Screenshot](ss.png)
