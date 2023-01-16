@@ -1,17 +1,17 @@
-def TimeInSeconds(time):
+def TimeInSeconds(time: str)->int:
     time=time.split(":")
     temp=[]
     for i in time:
         temp.append(int(i))
     return temp[0]*3600+temp[1]*60+temp[2]
 
-def TimeInHMS(timeInSeconds):
+def TimeInHMS(timeInSeconds: int)->int:
     h=timeInSeconds//3600
     m=(timeInSeconds-(h*3600))//60
     s=(timeInSeconds-(m*60)-(h*3600))
     return (h,m,s)
 
-def TimeRequiredToWatch(videoLength, rate):
+def TimeRequiredToWatch(videoLength: str, rate: float) ->str:
     time = TimeInSeconds(videoLength)
     time//=rate
     t=TimeInHMS(time)
